@@ -1,0 +1,22 @@
+*
+
+
+
+
+.footer {
+    background-color: #b4b4b42d;
+    color: #000000;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+}
+
+
+    body{
+        background-color: rgb(131, 216, 255);
+        text-align: center;
+    }
+
+    img {
+    border-radius: 50%;
+}
